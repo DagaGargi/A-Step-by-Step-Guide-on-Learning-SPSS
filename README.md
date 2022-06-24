@@ -79,7 +79,7 @@ NOTE: ITS suggests you open IBM SPSS Statistics once the installation has finish
 ----
 
 ## Access the practise Data Set
-You will also need to download the dataset for the workshop by clicking [Here](https://github.com/DagaGargi/A-Step-by-Step-Guide-on-Learning-SPSS/raw/master/TestDataSet.xlsx)
+You will also need to download the dataset for the workshop by clicking [Here](https://github.com/DagaGargi/A-Step-by-Step-Guide-on-Learning-SPSS/raw/master/Spss_Import_Exampl.xlsx)
 
 
 ---
