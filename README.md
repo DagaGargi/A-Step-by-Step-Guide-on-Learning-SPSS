@@ -85,8 +85,18 @@ You will also need to download the dataset for the workshop by clicking [Here](h
 ---
 
 ## Testing your knowledge on Variables
+
+**#Question 1**
 <iframe src="https://h5pstudio.ecampusontario.ca/h5p/41718/embed" width="993" height="249" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5pstudio.ecampusontario.ca/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script>
-----
+
+**#Question 2**
+<iframe src="https://h5pstudio.ecampusontario.ca/h5p/41719/embed" width="993" height="268" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5pstudio.ecampusontario.ca/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script>
+
+**#Question 3**
+<iframe src="https://h5pstudio.ecampusontario.ca/h5p/41722/embed" width="993" height="268" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5pstudio.ecampusontario.ca/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script>
+
+**#Question 4**
+<iframe src="https://h5pstudio.ecampusontario.ca/h5p/41723/embed" width="993" height="311" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5pstudio.ecampusontario.ca/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ----
 
