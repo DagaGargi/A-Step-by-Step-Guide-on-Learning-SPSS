@@ -78,6 +78,11 @@ NOTE: ITS suggests you open IBM SPSS Statistics once the installation has finish
 
 ----
 
+## Access the practise Data Set
+
+
+---
+
 ## Testing your knowledge on Variables
 
 ----
