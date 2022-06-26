@@ -81,7 +81,7 @@ NOTE: ITS suggests you open IBM SPSS Statistics once the installation has finish
 ## Access the practise Data Set
 You will also need to download the dataset for the workshop by clicking [Here](https://github.com/DagaGargi/A-Step-by-Step-Guide-on-Learning-SPSS/raw/master/Spss_Import_Exampl.xlsx)
 
-# Importing Data from Excel into SPSS
+## Importing Data from Excel into SPSS
 <iframe src="https://h5pstudio.ecampusontario.ca/h5p/41736/embed" width="993" height="584" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5pstudio.ecampusontario.ca/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ---
