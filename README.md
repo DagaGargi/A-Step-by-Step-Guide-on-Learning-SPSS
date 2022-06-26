@@ -104,7 +104,8 @@ You will also need to download the dataset for the workshop by clicking [Here](h
 ----
 
 ## Follow Up Material
-Add in names of books, links to websites, or any other reccomendations for follow up materials that could represent the "Next Step" in an attendees learning after the workshop.  helpful links like the Programming Historians or W3Schools are good examples.
+
+To enhance your knowledge on SPSS for advanced analytics, multivariate analysis, business intelligence, criminal investigation, check out [SPSS Programming and Data Management: A Guide for SPSS and SAS Users](https://github.com/DagaGargi/A-Step-by-Step-Guide-on-Learning-SPSS/raw/master/SPSS%20Programming%20and%20Data%20Management%20A%20Guide%20for%20SPSS%20and%20SAS%20Users%20(Raynald%20Levesque%2C%20SPSS%20Inc.)%20(z-lib.org).pdf)
 
 ----
   
