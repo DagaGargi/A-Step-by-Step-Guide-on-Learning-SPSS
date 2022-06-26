@@ -1,4 +1,4 @@
- ![IBM LOGO SPSS LOGO](Title.png)
+ ![IBM LOGO SPSS LOGO](Title1.jpg)
 
 
 # Learning SPSS
