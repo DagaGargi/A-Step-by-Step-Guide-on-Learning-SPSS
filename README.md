@@ -104,7 +104,7 @@ You will also need to download the dataset for the workshop by clicking [Here](h
 
 ----
 
-*## Statistical Analysis*
+# Statistical Analysis
 
 **1.HISTOGRAM:** A histogram is a chart that shows frequencies for intervals of values of a metric variable.Such intervals as known as “bins” and they all have the same widths. 
 
