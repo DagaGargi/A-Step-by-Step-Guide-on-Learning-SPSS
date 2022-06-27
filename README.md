@@ -113,7 +113,8 @@ You will also need to download the dataset for the workshop by clicking [Here](h
 # Statistical Analysis
 
 **1.HISTOGRAM:** A histogram is a chart that shows frequencies for intervals of values of a metric variable.Such intervals as known as “bins” and they all have the same widths. 
-*Note: There is a check your knowledge quiz at the end of the video. Enjoy your learning :joy:*
+
+*Note: There is a check your knowledge quiz at the end of the video. Enjoy your learning :happy:*
 
 <iframe src="https://h5pstudio.ecampusontario.ca/h5p/41746/embed" width="993" height="620" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5pstudio.ecampusontario.ca/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script>
 
